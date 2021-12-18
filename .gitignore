@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other
+data
+src/tenx.npy
+src/CBP_2021
+src/picasso

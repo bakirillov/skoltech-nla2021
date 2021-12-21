@@ -131,6 +131,9 @@ dmypy.json
 # Other
 *.pdf
 *.gz
+*.csv
+*.mtx
+*.npy
 papers
 papers/*
 data

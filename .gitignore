@@ -129,6 +129,13 @@ dmypy.json
 .pyre/
 
 # Other
+*.pdf
+*.gz
+*.csv
+*.mtx
+*.npy
+papers
+papers/*
 data
 src/tenx.npy
 src/CBP_2021
